@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rachana-prakash
+- 👀 I’m interested in Angular and Java Script, my repositories will mainly contain mini fun projects that I worked on
+- 🌱 I’m currently learning Angular Unit Testing
+
+
+<!---
+rachana-prakash/rachana-prakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
