@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rachana-prakash
-- 👀 I’m interested in Angular and Java Script, my repositories will mainly contain mini fun projects that I worked on
+- 👀 I’m interested in Angular and Javascript, my repositories will mainly contain mini fun projects that I worked on
 - 🌱 I’m currently learning Angular Unit Testing
 
 
