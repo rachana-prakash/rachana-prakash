@@ -4,6 +4,8 @@
 
   Check out my projects and let me know what you think! :raised_hands:
 
+  Currently exploring: Testing in React 👀
+
 
 
 <!---
